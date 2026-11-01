@@ -81,7 +81,7 @@ page = st.sidebar.radio(
     ["Overview", "Review customer drafts", "Scoring dashboard", "Prompt & governance"],
 )
 st.sidebar.divider()
-st.sidebar.info("This is a simulated exercise. Drafts are pre-written examples; no AI API, customer accounts, or messaging service is connected.")
+
 
 st.markdown("""
 <div class="hero">
